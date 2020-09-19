@@ -5,7 +5,7 @@ expertise_sectors:
 - To promote the visibility and leadership of R users from marginalized races, genders, and the disabled community through community-led efforts that support professional development.
 
 expertise_title: Mission
-heading: stuff.
+heading: Who We Are
 title: About Us
 ---
 
