@@ -16,21 +16,21 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
-    url     = "portfolio"
+    name    = "Webinars"
+    url     = "webinars"
     weight  = 3
   [[menu.nav]]
     name    = "Blog"
     url     = "blog"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "Join us"
     url     = "contact"
     weight  = 5
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/mir_logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "website "
@@ -50,10 +50,10 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/squiggles.png"
-    heading               = ""
+    background_image      = ""
+    heading               = "MiR Community Website"
     tagline               = "WE WORK HARD, WE PLAY HARD"
-    primary_button        = "See Our Works"
+    primary_button        = "Resources"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
     secondary_button_url  = "contact"
