@@ -30,11 +30,11 @@ summarylength = 25
 
 # Site Params
 [params]
-  logo = "images/MiR_logo.png"
+  logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
+  description = "website "
+  author = "MiR Community Team"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
@@ -42,7 +42,7 @@ summarylength = 25
   
   # Navbar Action Button
   [params.navAction]
-    status  = true
+    status  = false
     name    = "Join MiR"
     url     = "contact"
   
@@ -50,7 +50,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/mir_green_banner.png"
+    background_image      = "images/backgrounds/squiggles.png"
     heading               = ""
     tagline               = "WE WORK HARD, WE PLAY HARD"
     primary_button        = "See Our Works"
@@ -76,9 +76,9 @@ summarylength = 25
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      address = ""
+      phone   = ""
+      email   = "team@mircommunity.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
@@ -98,18 +98,9 @@ summarylength = 25
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
-          name = "Medium"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Behance"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Instagram"
-          url  = "#"
+          name = "Twitter"
+          url  = "https://twitter.com/miR_community"
       # Footer Service
       [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+        title       = "We hope to support underrepresented minority useRs."
+        description = ""
