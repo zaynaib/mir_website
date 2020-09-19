@@ -1,6 +1,6 @@
 baseURL       = "https://www.mircommunity.com"
 languageCode  = "en-us"
-title         = "here"
+title         = "MiR Community Website"
 theme = "roxo-hugo"
 summarylength = 25
 
