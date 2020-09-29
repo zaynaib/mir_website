@@ -10,6 +10,8 @@ title: KIO-TAPE BRAND
 type: portfolio
 ---
 
+{{< youtube 582tMkPvloU >}}
+
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
 
 

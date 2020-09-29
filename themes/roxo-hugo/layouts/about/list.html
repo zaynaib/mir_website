@@ -5,6 +5,9 @@
     <div class="row">
       <div class="col-12">
         <div class="site-about-wrapper">
+            <p>
+              {{ .Params.spaces }}
+            </p>
           <div class="site-about-company">
             <h1>
               {{ .Params.heading }}
@@ -44,7 +47,7 @@
 
 <!-- {{ partial "clients.html" . }} -->
 
-{{ partial "team.html" . }}
+<!-- {{ partial "team.html" . }} -->
 
 <!-- {{ partial "call-to-action.html" . }} -->
 
