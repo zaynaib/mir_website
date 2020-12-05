@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+{{ range first 1 (where .Site.RegularPages "Type" "in" "projects").ByDate.Reverse}}
+    {{ .Title}}
+{{ end}}
+
+{{ .Content }}
+
+
+{{ end }}
